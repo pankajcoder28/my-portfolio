@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: aliceblue;
+}
+
+div{
+    background-color: rgb(31, 31, 74);
+}
+
+#about{
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#ab{
+    color: black;
+    
+}
+#sen{
+    text-align: center;
+    font-style: italic;
+    font-weight: 300;
+}
+#edu{
+    background-color: rgb(202, 229, 239);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+#ed{
+    color: black;  
+}
+#clg{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 17px;
+    padding: 10px 10px;
+
+}
+#sch{
+     color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 19px;
+    padding: 10px 10px;
+    
+
+}
+#skill{
+    background-color: wheat;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    
+}
+#skill>h1{
+    color: black;
+}
+#s1{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#s2{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#s3{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#s4{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#pro{
+    background-color: rgb(245, 186, 195);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    
+}
+#pro>h1{
+    color: black;
+}
+#p1{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#p2{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#p3{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#contact{
+    background-color: rgb(184, 237, 184);
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+#contact>h1{
+    color: black;
+}
+#em{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#num{
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 19px;
+    padding: 10px 10px;
+}
+#copyright>p{
+   color: white;
+   text-align: center;
+}
